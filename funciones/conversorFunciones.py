@@ -18,7 +18,7 @@ Eliga una opcion:  """
 opcion = input(menu)
 
 if opcion == '1':
-    convertirADolar("Mexicanos 🇲🇽", 20.24)
+    convertirADolar("Mexicanos 🇲🇽 ", 20.24)
 elif opcion == '2':
     convertirADolar("Euros 🇪🇺", 0.95)
 elif opcion == '3':
